@@ -1,0 +1,4 @@
+_all_docs
+_all_dbs
+admin
+_changes
